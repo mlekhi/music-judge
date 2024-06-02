@@ -1,0 +1,27 @@
+taste,id,name,artist,danceability,energy,tempo,loudness,speechiness,acousticness,instrumentalness,liveness,valence
+3,5bu8p495FPdRySYSptdny2,Goin For Broke,Bryan Martin,0.499,0.688,130.112,-4.576,0.0313,0.0398,4.68E-06,0.108,0.358
+1,6d9PX0f4YezrwhMtH5BKiU,Sensory Bypass,unvrsl frqncy,0.168,0.00988,69.165,-35.392,0.0566,0.958,0.789,0.108,0.0517
+7,0KMGxYKeUzK9wc5DZCt3HT,If You Leave Me Now,Chicago,0.434,0.563,104.183,-6.784,0.0268,0.0197,0.000824,0.128,0.275
+2,28Lgdb9PlPJGg2Mi11fFAP,Emphasis on Scat (Secret Stage),Stamper,0.965,0.766,110.989,-7.93,0.181,0.0555,0,0.385,0.913
+6,76SfKoNBGuy6ehngis7txk,Unter dem Silbermond,Haslach Hallodris,0.629,0.64,94.998,-7.625,0.0245,0.322,0,0.26,0.551
+8,7yJG5oJwYfom8AVXDcgFLx,Gal Policy,Kranium,0.606,0.61,129.989,-5.279,0.392,0.424,0,0.165,0.685
+6,68paedB3cbLw6xivfK7Icd,"Pagliacci / Act 1: ""Recitar!...Vesti la giubba""",Ruggero Leoncavallo,0.188,0.371,74.384,-12.652,0.0437,0.96,0.477,0.098,0.0749
+4,4Umx5XQFmxtxeIvfzDWwKv,Female Warrior (Inst),Aldious,0.385,0.95,88.055,-5.938,0.0731,5.40E-06,0.882,0.284,0.59
+3,1kEosByR9Ujt5lRzkZ1342,Big Group Breakfast,Old Man Luedecke,0.702,0.424,133.565,-11.03,0.0339,0.654,1.63E-06,0.133,0.667
+2,3vfYbcKJmd2J3uYOxPzJsn,Don't Let Me Die in Florida - Acoustic,The Chicks,0.581,0.973,138.018,-3.766,0.0595,0.0583,0.000194,0.949,0.533
+8,12eAtj918bpsB4Vts8pCMu,listen!,hako,0.74,0.678,134.107,-6.929,0.203,0.0483,3.49E-05,0.166,0.13
+7,5SsWA6zmNEmCdRbFXBtTrm,Cristo De Palacaguina,Amparo Ochoa,0.594,0.294,167.448,-18.336,0.0849,0.62,0,0.128,0.932
+8,22QUY8b8OjEk2uBcyPUOjC,Playaz Club,Rappin' 4-Tay,0.866,0.372,99.956,-12.75,0.176,0.0105,0.00246,0.0779,0.646
+5,4k4Yrr2GG71Onkk9t180Jh,Once Before You Go - Dear Gravity Rework,The American Dollar,0.0739,0.328,63.246,-16.049,0.0381,0.959,0.852,0.101,0.091
+9,5UuwTwL9izUF8hIckIyHKO,Oohhh Baby - Todd Edwards Remix Version,Veda Simpson,0.852,0.707,124.01,-6.714,0.159,0.0231,0.298,0.214,0.778
+7,0riinJrNO5lrQpxenHMVqD,Airship Fortress,Player One,0.544,0.779,139.986,-12.261,0.0296,1.96E-05,0.933,0.354,0.867
+4,3RkVat9BLrGcG6YC56OMBD,Fjords of Northern Norway,Christoph Bruhn,0.246,0.248,100.182,-18.298,0.0396,0.935,0.88,0.107,0.205
+2,7olQvUZC58LDGCeG8mHcV3,The Vow of Retaliation,Legion Of The Damned,0.222,0.996,177.588,-5.961,0.118,0.000708,0.738,0.328,0.0415
+9,0w1Sad5GxaC5SsY0CmdFGU,Favorite Colors,Taylor Bennett,0.745,0.668,127.837,-8.682,0.287,0.703,0.000127,0.0907,0.338
+6,1sICDPeb14NElZCZ1lQ6PV,Ellens Dritter Gesang Op. 52-6: D. 839: `Ave Maria`,Franz Schubert,0.434,0.264,70.02,-18.584,0.0375,0.992,0.899,0.141,0.369
+3,703RBHUEEi5c4o4YUXAM9Q,Chirpy Chirpy Cheep Cheep,Middle Of The Road,0.549,0.547,129.814,-8.681,0.0452,0.0916,2.26E-06,0.205,0.972
+8,2uWZ7EGddFlA1DJ3Rzzvs2,Bachke Bachke (feat. Yarah),Karan Aujla,0.665,0.541,88.086,-5.864,0.0861,0.394,0,0.393,0.461
+1,1jPyLuJO2fvyDFrTKD78Pf,"Peter Pan ou la véritable histoire de Wendy Moira Angela Darling, Scene 7a: ""« Elle est trop faible pour bouger »""",Patrick Burgan,0.489,0.155,119.979,-25.338,0.0819,0.92,1.55E-06,0.341,0.195
+7,3jNgCdoRoHMNFhFgAotXwu,Symbiosis,Lo World,0.531,0.553,143.97,-8.146,0.0471,0.752,0.00407,0.139,0.257
+6,6e85fziCk6MwZUxWyG6Ijm,"Boccherini: String Quintet in E Major, Op. 11 No. 5, G. 275: III. Minuetto - Trio (Arr. Woodhouse for String Orchestra)",Luigi Boccherini,0.501,0.0358,85.189,-26.147,0.0293,0.961,0.58,0.142,0.43
+4,4yq1pKOGjPU5LMkg1V0A2C,Beautiful Rose,Sean McConnell,0.51,0.426,163.802,-11.237,0.0359,0.725,2.73E-06,0.0984,0.233
